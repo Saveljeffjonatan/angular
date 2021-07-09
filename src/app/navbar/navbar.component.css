@@ -1,0 +1,19 @@
+nav {
+	background: #333;
+	padding: 1em 0;
+}
+nav .container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul {
+	display: flex;
+	justify-content: space-between;
+	width: 40%;
+	list-style: none;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
